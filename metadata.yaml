@@ -1,10 +1,14 @@
 _repo: The-Girl-s-Own-Paper-Vol-XX-No-979-October-1-1898_49179
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Peters, Charles
       gutenberg_agent_id: '7869'
       url: http://www.gutenberg.org/2009/agents/7869
+covers:
+- cover_type: archival
+  image_path: 49179-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49179#The-Girl-s-Own-Paper-Vol-XX-No-979-October-1-1898
 gutenberg_issued: '2015-06-09'
 gutenberg_type: Text
 identifiers:
